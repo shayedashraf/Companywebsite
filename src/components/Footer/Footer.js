@@ -37,10 +37,10 @@ const Footer = () => {
           </Column>
           <Column>
             <Heading>Contact Us</Heading>
-            <FooterLink href="#">Uttar Pradesh</FooterLink>
-            <FooterLink href="#">Ahemdabad</FooterLink>
-            <FooterLink href="#">Indore</FooterLink>
-            <FooterLink href="#">Mumbai</FooterLink>
+            <FooterLink href="#">Dhaka</FooterLink>
+            <FooterLink href="#">London</FooterLink>
+            <FooterLink href="#">Dhaka</FooterLink>
+            <FooterLink href="#">London</FooterLink>
           </Column>
           <Column>
             <Heading>Social Media</Heading>
